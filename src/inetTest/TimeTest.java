@@ -25,5 +25,6 @@ public class TimeTest {
     	System.out.println("TEST15");
     	System.out.println("TEST16");
     	System.out.println("TEST17");
+    	System.out.println("TEST18");
     }
 }
